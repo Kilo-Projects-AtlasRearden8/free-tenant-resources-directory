@@ -1,0 +1,191 @@
+{
+  "site": {
+    "title": "Free Tenant Resources Directory",
+    "tagline": "Free lease checklists, repair-request letters, and move-in/move-out checklists for renters.",
+    "credit": "Published by Asdale Dynamics, LLC (Indiana). Copyright (c) 2026 Asdale Dynamics, LLC.",
+    "disclaimer": "Educational resources only. Not legal advice. Not affiliated with any government agency. No affiliate links."
+  },
+  "listings": [
+    {
+      "id": "hud-tenant-rights",
+      "title": "HUD Tenant Rights & Lease Basics",
+      "category": "Lease checklists",
+      "cost": "Free ($0)",
+      "summary": "U.S. Department of Housing and Urban Development overview of tenant rights, leases, security deposits, and fair housing.",
+      "source": "U.S. Department of Housing and Urban Development (HUD)",
+      "sourceLink": "https://www.hud.gov/topics/rental_assistance",
+      "officialLink": "https://www.hud.gov/topics/rental_assistance",
+      "tags": ["lease", "federal", "fair housing", "security deposit"],
+      "steps": [
+        "Learn your federal fair-housing rights before signing anything.",
+        "Read the full lease carefully; never sign a blank form.",
+        "Confirm who is responsible for repairs and maintenance.",
+        "Check security-deposit limits and return rules for your state.",
+        "Get every agreement and landlord promise in writing.",
+        "Keep copies of the lease, move-in checklist, and all notices."
+      ]
+    },
+    {
+      "id": "indiana-tenant-rights-handbook",
+      "title": "Indiana Tenant Rights Handbook",
+      "category": "Lease checklists",
+      "cost": "Free ($0)",
+      "summary": "Indiana-specific guide to tenant rights, leases, eviction process, and security deposits from Indiana Legal Services.",
+      "source": "Indiana Legal Services",
+      "sourceLink": "https://www.indianalegalservices.org",
+      "officialLink": "https://www.indianalegalservices.org",
+      "tags": ["lease", "Indiana", "eviction", "security deposit"],
+      "steps": [
+        "Review the Indiana Tenant Rights Handbook for your county.",
+        "Check your lease for illegal clauses before signing.",
+        "Document the unit's condition with photos at move-in.",
+        "Know the Indiana eviction notice timeline and your response window.",
+        "Keep a paper trail of rent payments and landlord communications."
+      ]
+    },
+    {
+      "id": "usa-gov-tenant-rights",
+      "title": "USA.gov Tenant Rights",
+      "category": "Lease checklists",
+      "cost": "Free ($0)",
+      "summary": "Federal USA.gov guide to tenant rights, leases, security deposits, and where to find local help.",
+      "source": "USA.gov",
+      "sourceLink": "https://www.usa.gov/tenant-rights",
+      "officialLink": "https://www.usa.gov/tenant-rights",
+      "tags": ["lease", "federal", "tenant rights"],
+      "steps": [
+        "Visit USA.gov/tenant-rights for the federal renter overview.",
+        "Review your lease terms and state security-deposit rules.",
+        "Find your state or local tenant-rights office through the directory.",
+        "Document repair requests and keep dated copies.",
+        "Contact a local legal-aid office if your landlord violates the lease."
+      ]
+    },
+    {
+      "id": "repair-request-letter-template",
+      "title": "Repair Request Letter Template",
+      "category": "Repair-request letters",
+      "cost": "Free ($0)",
+      "summary": "Template for notifying your landlord in writing about needed repairs, with steps to document and follow up.",
+      "source": "Indiana Legal Services",
+      "sourceLink": "https://www.indianalegalservices.org",
+      "officialLink": "https://www.indianalegalservices.org",
+      "tags": ["repair", "letter", "template", "maintenance"],
+      "steps": [
+        "Document the issue with photos and dates.",
+        "Write a dated repair-request letter describing the problem clearly.",
+        "Reference your lease clause requiring landlord maintenance.",
+        "Keep a copy and send it by certified mail or hand-deliver with a receipt.",
+        "Allow a reasonable time for repairs, then follow up in writing."
+      ]
+    },
+    {
+      "id": "indiana-repair-and-deduct",
+      "title": "Indiana Repair-and-Deduct Notice Guide",
+      "category": "Repair-request letters",
+      "cost": "Free ($0)",
+      "summary": "Indiana Legal Services guidance on repair-and-deduct options when a landlord fails to make essential repairs.",
+      "source": "Indiana Legal Services",
+      "sourceLink": "https://www.indianalegalservices.org",
+      "officialLink": "https://www.indianalegalservices.org",
+      "tags": ["repair", "Indiana", "repair and deduct", "notice"],
+      "steps": [
+        "Confirm the repair affects health, safety, or habitability.",
+        "Notify the landlord in writing and keep proof of delivery.",
+        "Review Indiana Legal Services repair-and-deduct rules for your situation.",
+        "Document all repair costs with receipts before deducting.",
+        "Contact Indiana Legal Services before withholding or deducting rent."
+      ]
+    },
+    {
+      "id": "lawhelp-local-legal-aid",
+      "title": "Find Free Local Legal Aid",
+      "category": "Repair-request letters",
+      "cost": "Free ($0)",
+      "summary": "LawHelp.org directory to locate free civil legal aid and tenant-rights assistance by state.",
+      "source": "LawHelp.org",
+      "sourceLink": "https://www.lawhelp.org",
+      "officialLink": "https://www.lawhelp.org",
+      "tags": ["legal aid", "free lawyer", "directory", "tenant help"],
+      "steps": [
+        "Go to LawHelp.org and select your state.",
+        "Search for housing or tenant-rights legal aid programs.",
+        "Check income eligibility for free services.",
+        "Gather your lease, notices, and repair documentation.",
+        "Contact the legal aid office to request assistance."
+      ]
+    },
+    {
+      "id": "hud-move-in-checklist",
+      "title": "HUD Move-In Condition Checklist",
+      "category": "Move-in/move-out checklists",
+      "cost": "Free ($0)",
+      "summary": "HUD move-in checklist to record a rental unit's condition and protect your security deposit.",
+      "source": "U.S. Department of Housing and Urban Development (HUD)",
+      "sourceLink": "https://www.hud.gov/topics/rental_assistance",
+      "officialLink": "https://www.hud.gov/topics/rental_assistance",
+      "tags": ["move-in", "checklist", "inspection", "security deposit"],
+      "steps": [
+        "Complete the checklist with your landlord before moving in.",
+        "Walk through every room and note existing damage.",
+        "Photograph walls, floors, appliances, and fixtures.",
+        "Have both you and the landlord sign and date the checklist.",
+        "Keep a signed copy for your records."
+      ]
+    },
+    {
+      "id": "indiana-move-out-checklist",
+      "title": "Indiana Move-Out Checklist & Security Deposit",
+      "category": "Move-in/move-out checklists",
+      "cost": "Free ($0)",
+      "summary": "Indiana Legal Services checklist for moving out, cleaning, final walkthrough, and security-deposit return.",
+      "source": "Indiana Legal Services",
+      "sourceLink": "https://www.indianalegalservices.org",
+      "officialLink": "https://www.indianalegalservices.org",
+      "tags": ["move-out", "Indiana", "security deposit", "checklist"],
+      "steps": [
+        "Review your lease move-out and notice requirements.",
+        "Clean the unit and remove all personal belongings.",
+        "Complete a final walkthrough with the landlord if possible.",
+        "Take dated photos of the empty, cleaned unit.",
+        "Provide your forwarding address in writing for the deposit return."
+      ]
+    },
+    {
+      "id": "usa-gov-security-deposit",
+      "title": "Security Deposit Return Checklist",
+      "category": "Move-in/move-out checklists",
+      "cost": "Free ($0)",
+      "summary": "USA.gov guidance on getting your security deposit back after moving out.",
+      "source": "USA.gov",
+      "sourceLink": "https://www.usa.gov/tenant-rights",
+      "officialLink": "https://www.usa.gov/tenant-rights",
+      "tags": ["move-out", "security deposit", "refund"],
+      "steps": [
+        "Know your state's deadline for security-deposit returns.",
+        "Submit your forwarding address to the landlord in writing.",
+        "Document the unit condition with move-out photos.",
+        "Request an itemized list if any deposit is withheld.",
+        "Dispute improper charges through local legal aid if needed."
+      ]
+    },
+    {
+      "id": "indiana-eviction-response",
+      "title": "Responding to an Indiana Eviction Notice",
+      "category": "Lease checklists",
+      "cost": "Free ($0)",
+      "summary": "Indiana Legal Services guidance on how to respond when you receive an eviction notice.",
+      "source": "Indiana Legal Services",
+      "sourceLink": "https://www.indianalegalservices.org",
+      "officialLink": "https://www.indianalegalservices.org",
+      "tags": ["eviction", "Indiana", "notice", "legal help"],
+      "steps": [
+        "Read the eviction notice carefully and note the deadline.",
+        "Do not ignore the notice; respond within the time window.",
+        "Contact Indiana Legal Services or a local legal-aid office immediately.",
+        "Gather your lease, payment records, and landlord communications.",
+        "Appear for any scheduled court date if one is set."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Free Tenant Resources Directory — Asdale Dynamics, LLC</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="container">
+    <h1>Free Tenant Resources Directory</h1>
+    <p class="tagline">Free lease checklists, repair-request letters, and move-in/move-out checklists for renters. No affiliate links.</p>
+    <p class="credit">Published by <strong>Asdale Dynamics, LLC</strong> (Indiana). Copyright (c) 2026 Asdale Dynamics, LLC.</p>
+  </div>
+</header>
+
+<main class="container">
+  <section class="filters">
+    <input type="search" id="search" placeholder="Search resources by title, topic, or category..." aria-label="Search resources">
+    <div class="chips" id="category-chips"></div>
+    <p id="result-count" class="count"></p>
+  </section>
+
+  <section class="grid" id="resource-grid"></section>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <p>&copy; 2026 Asdale Dynamics, LLC, Indiana. Educational resources only; not legal advice.</p>
+    <p><a href="listings/">View Markdown source listings</a></p>
+  </div>
+</footer>
+
+<script src="data/listings.json" type="application/json" id="listings-data"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
